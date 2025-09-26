@@ -1,1 +1,37 @@
 /* Add CSS Styling */
+
+/* .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+/* div * {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+/* .container * {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+/* div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+/* div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px
+}
